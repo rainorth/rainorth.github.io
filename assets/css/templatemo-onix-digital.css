@@ -1517,10 +1517,21 @@ Pricing
 
 .pricing-tables .second-item {
   background-image: url(../images/second-plan-bg.png);
+  transition: transform 0.5s;
 }
+
+.pricing-tables .second-item:hover {
+  transform: scale(1.1);
+}
+
 
 .pricing-tables .third-item {
   background-image: url(../images/third-plan-bg.png);
+  transition: transform 0.5s;
+}
+
+.pricing-tables .third-item:hover {
+  transform: scale(1.1);
 }
 
 
