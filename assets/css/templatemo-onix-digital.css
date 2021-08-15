@@ -2144,6 +2144,16 @@ responsive
     Multicoloured Hover Variations
 */
 
+#social-fb {
+    color: #f48220;
+}
+#social-tw {
+    color: #f48220;
+}
+#social-em {
+    color: #f48220;
+}
+
  #social-fb:hover {
      color: #8a3ab9;
  }
